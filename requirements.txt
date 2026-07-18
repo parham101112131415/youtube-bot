@@ -1,0 +1,4 @@
+pytelegrambotapi
+yt-dlp
+flask
+requests
